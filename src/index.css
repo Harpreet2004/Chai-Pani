@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face{
+    font-family: "heading";
+    src: local("Poppins-Bold"),
+    url('./assets/fonts/Poppins-Bold.ttf') format("truetype")
+}
+
+@font-face{
+    font-family: "para";
+    src: local("Poppins-Regular"),
+    url('./assets/fonts/Poppins-Regular.ttf') format("truetype")
+}
