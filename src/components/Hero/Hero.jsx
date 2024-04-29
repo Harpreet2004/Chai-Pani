@@ -18,7 +18,7 @@ function Hero() {
         <div className="flex ">
           <img
             className=" max-xl:h-[25rem] max-sm-laptop:h-[20.2rem] max-lg-tablet:h-[20rem] max-lg-tablet:ml-5 max-md:w-[13rem] max-md:h-[13rem] max-md:hidden max-sm:hidden"
-            src="\src\assets\hero-img.png"
+            src="/assets/hero-img-BKzczMrL.png"
             alt="hero-img"
           />
         </div>
