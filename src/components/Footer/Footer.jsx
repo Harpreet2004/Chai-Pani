@@ -42,17 +42,17 @@ function Footer() {
         <div className="flex gap-16 border-b pb-4">
           <img
             alt="social-img"
-            src="/src/assets/social/facebook.png"
+            src="/src/images/social/facebook.png"
             className="h-8 max-md:h-6 invert hover:invert-0 cursor-pointer"
           />
           <img
             alt="social-img"
-            src="/src/assets/social/instagram.png"
+            src="/src/images/social/instagram.png"
             className="h-8 max-md:h-6 invert hover:invert-0 cursor-pointer"
           />
           <img
             alt="social-img"
-            src="/src/assets/social/twitter.png"
+            src="/src/images/social/twitter.png"
             className="h-8 max-md:h-6 invert hover:invert-0 cursor-pointer"
           />
         </div>

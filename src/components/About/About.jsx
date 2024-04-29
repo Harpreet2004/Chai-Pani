@@ -6,7 +6,7 @@ function About() {
       <div className="flex justify-center items-center gap-36 pt-10 px-56 max-lg-desktop:px-20 max-sm-laptop:gap-14 max-lg-tablet:gap-20 max-md:gap-14 max-md:px-28 max-sm:relative max-sm:px-20 max-[1020px]:pt-20  ">
         <div className="min-h-[30rem]  min-w-[22.8rem] drop-shadow-md border-2 border-y-orange-300  max-sm:hidden max-md:hidden max-[1110px]:min-h-[26rem] max-[1110px]:min-w-[18rem]">
           <img
-            src="\src\assets\about-img.png"
+            src="\src\images\about-img.png"
             alt="about-img"
             className="min-h-[25rem] object-cover hover:rotate-3 hover:ease-in-out duration-300 max-sm:hidden "
           />

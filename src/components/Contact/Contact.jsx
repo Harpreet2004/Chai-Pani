@@ -11,7 +11,7 @@ function Contact() {
           {/* LEFT ADDRESS CONTAINER */}
           <div className="flex flex-col gap-6">
             <div className="flex gap-10 justify-center items-center  max-lg:gap-40 max-[440px]:gap-14">
-              <img src="/src/assets/home.png" alt="home-img" className=" h-5" />
+              <img src="/src/images/home.png" alt="home-img" className=" h-5" />
               <div className="flex flex-col gap-2">
                 <h5 className="font-heading">Gurugram, Delhi-NCR</h5>
                 <p className="font-para">Golf course road </p>
@@ -20,7 +20,7 @@ function Contact() {
 
             <div className="flex gap-9 justify-center items-center  max-lg:gap-40 max-[440px]:gap-14">
               <img
-                src="/src/assets/phone.png"
+                src="/src/images/phone.png"
                 alt="home-img"
                 className=" h-5"
               />
@@ -31,7 +31,7 @@ function Contact() {
             </div>
 
             <div className="flex gap-10   justify-center items-center  max-lg:gap-40 max-[440px]:gap-14">
-              <img src="/src/assets/mail.png" alt="home-img" className=" h-5" />
+              <img src="/src/images/mail.png" alt="home-img" className=" h-5" />
               <div className="flex flex-col gap-2">
                 <h5 className="font-heading">chaipani@gmail.com</h5>
                 <p className="font-para">Send us your queries!</p>
