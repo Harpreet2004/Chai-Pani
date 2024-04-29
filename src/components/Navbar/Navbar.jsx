@@ -35,7 +35,7 @@ function Navbar() {
           <div className="md:hidden">
             <img 
               onClick={() => setisClicked(prevstate => !prevstate)}
-              src="/src/assets/hamburger.png"
+              src="../../assets/hamburger.png"
               alt="hamburger-icon"
               className="h-10 flex gap-2 max-md:visible"
             />
