@@ -3,7 +3,7 @@ import Card from "./Card";
 
 function Menu() {
   return (
-    <section className="bg-[url('.//assets/menu.jpeg')] h-[55rem] bg-cover bg-center shadow-bg-box max-sm:h-[95rem]">
+    <section className="bg-[url('./assets/menu.jpeg')] h-[55rem] bg-cover bg-center shadow-bg-box max-sm:h-[95rem]">
       <h3 className="text-center text-4xl pt-10 font-heading text-light mb-12 tracking-widest">
         Our Menu
       </h3>
