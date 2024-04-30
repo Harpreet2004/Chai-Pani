@@ -10,7 +10,7 @@ function Navbar() {
         <div className="w-full h-32 flex justify-center items-center gap-96 text-para font-para max-lg-desktop:gap-72 max-xl:gap-52 max-sm-laptop:gap-32 max-lg-tablet:gap-24 bg-primary max-md:gap-64 max-[490px]:gap-28  ">
           <img
             className="flex justify-center items-center h-32 max-lg-tablet:h-24"
-            src="../../images/logo.png"
+            src="src/images/logo.png"
             alt="logo-img"
           />
           <ul className="flex gap-10 justify-center items-center text-xl max-lg-tablet:text-lg max-md:hidden">
