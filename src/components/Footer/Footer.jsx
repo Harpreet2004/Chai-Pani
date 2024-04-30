@@ -24,7 +24,7 @@ function Footer() {
 
         <div className="flex flex-col gap-5 max-md:justify-center max-md:items-center max-md:gap-6">
           <h2 className="text-heading font-heading text-3xl">Newsletter</h2>
-          <p className="font-para text-light leading-snug text-xl max-md:mt-1">
+          <p className="font-para text-light leading-snug text-xl max-md:mt-1 max-sm:text-center">
             Sign up today and get <span className="text-2xl text-heading">10%</span> off for
             your first order
           </p>
@@ -42,17 +42,17 @@ function Footer() {
         <div className="flex gap-16 border-b pb-4">
           <img
             alt="social-img"
-            src="/src/images/social/facebook.png"
+            src="/assets/social/facebook.png"
             className="h-8 max-md:h-6 invert hover:invert-0 cursor-pointer"
           />
           <img
             alt="social-img"
-            src="/src/images/social/instagram.png"
+            src="/assets/social/instagram.png"
             className="h-8 max-md:h-6 invert hover:invert-0 cursor-pointer"
           />
           <img
             alt="social-img"
-            src="/src/images/social/twitter.png"
+            src="/assets/social/twitter.png"
             className="h-8 max-md:h-6 invert hover:invert-0 cursor-pointer"
           />
         </div>

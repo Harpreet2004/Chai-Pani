@@ -5,11 +5,11 @@
 @font-face{
     font-family: "heading";
     src: local("Poppins-Bold"),
-    url('./images/fonts/Poppins-Bold.ttf') format("truetype")
+    url('/assets/fonts/Poppins-Bold.ttf') format("truetype")
 }
 
 @font-face{
     font-family: "para";
     src: local("Poppins-Regular"),
-    url('./images/fonts/Poppins-Regular.ttf') format("truetype")
+    url('/assets/fonts/Poppins-Regular.ttf') format("truetype")
 }
